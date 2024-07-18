@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "role": "B Tech in Information Technology",
+    "organisation": "Meghnad Saha Institute of Technology",
+    "year":"Batch: 2021-2025",
+    
+    "experiences": 
+      "YGPA: 8.5"
+    
+
+  },
+  {
+    "id": 2,
+    "role": "XII (ISC)",
+    "organisation": "Calcutta Girls' High School",
+    "year":"Y.O.P.: 2021",
+    
+    "experiences": 
+      "89.8%"
+    
+  },
+  {
+    "id": 3,
+    "role": "X (ICSE)",
+    "organisation": "ST. Teresa's Secondary School",
+    "year":"Y.O.P.: 2019",
+    
+    "experiences": 
+      "92.8%"
+    
+  }
+]

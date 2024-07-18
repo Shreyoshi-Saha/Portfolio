@@ -1,0 +1,31 @@
+[
+  {
+    "key": 1,
+    "title": "campusXchange",
+    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "description": "A website solely created for the purpose of college students to post and sell their products . ",
+
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Shreyoshi-Saha/campusXchange"
+  },
+  {
+    "key": 2,
+    "title": "foodOpedia",
+    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "description": "An user friendly food recipe website focusing solely on front end using React JS and Tailwind CSS.",
+
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Shreyoshi-Saha/foodOpedia"
+  },
+
+  {
+    "key": 3,
+    "title": "Car_Rental_System",
+    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "description": "A basic Car Rental System created using JAVA exploiting its OOP features.",
+
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Shreyoshi-Saha/Car_Rental_System"
+  }
+
+]
