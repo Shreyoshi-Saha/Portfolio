@@ -45,6 +45,10 @@ const Home = () => {
           <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
             <img src={`/assets/${hero.imgSrc}`} alt="hero" />
           </div>
+          <div className="  about">
+            <p> As an enthusiastic and dedicated Information Technology student, I am passionate about exploring innovative technologies and solving complex problems. 
+              With a keen eye for detail and a commitment to continuous learning, I am eager to contribute my skills in real-world projects, bringing creativity and technical expertise to any team I join.</p>
+          </div>
         </div>
       </div>
     </>

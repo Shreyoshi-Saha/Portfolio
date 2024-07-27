@@ -4,14 +4,13 @@ import React from "react";
 const Navbar = () => {
   return (
     <>
-      <div className="container nav_bar"
+      <div className=" nav_bar"
       data-aos="fade-down"
       data-aos-duration="1000" 
       >
         <div className="left logo">SS
-        {/* <img src={`/assets/${logo.imgSrc}`} className="logo" alt="logo" /> */}
         </div>
-        <div className="right nav_items">
+        <div className="right ">
           <a href="#home" className="nav_items">
             Home
           </a>
